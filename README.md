@@ -1,6 +1,6 @@
 Human Resources Department
-# person_dep
-C# Korolchuk Roman
+
+# Korolchuk Roman
  
  This repository presents the most interesting projects, that i developed in the learning process.
  
